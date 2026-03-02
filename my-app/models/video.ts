@@ -32,3 +32,8 @@ export const  VideoSchema = new Schema<IVideo>({
         quality : { type : Number , min:1 , max : 100 }
     }
 })
+
+
+
+
+
